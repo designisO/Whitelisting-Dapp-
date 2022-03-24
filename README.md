@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Whitelisting dApp
+
+<img src="#">
+
+
+## Description
+
+In this project I was able to create a Whitelisting dApp. This allows users to gain access to the NFT minting before it goes public. In this dApp, users are able to connect to Metamask wallet and use the Rinkeby testnet. API of alchemy was used as well as front end built using Next.js. Hardhat allowed the contract to be tested and deployed and once finished the address displays in the terminal. Learned about a new wallet connection tool called Web3Modal. which is an easy-to-use library to help developers add support for multiple providers in their apps with a simple customizable configura 
+
+Live Page: "#" (Desktop Only)
 
 ## Getting Started
 
-First, run the development server:
+### Dependencies
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+* Nextjs
+* Hardhat Framework
+* Alchemy API (alchemy.io)
+* Web3Modal (https://github.com/Web3Modal/web3modal)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Authors
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Contributors names and contact info
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Orion F.
+(DesignIsOrion)
+(BlockchainO)
